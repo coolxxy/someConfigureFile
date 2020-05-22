@@ -1,0 +1,23 @@
+    "schemes": [
+        {
+            "name": "coolxxy",
+            "background": "#1d1f21",
+            "foreground": "#c5c8c6",
+            "black": "#282A2E",
+            "blue": "#5F819D",
+            "brightBlack": "#373b41",
+            "brightBlue": "#81a2be",
+            "brightCyan": "#8abeb7",
+            "brightGreen": "#b5bd68",
+            "brightPurple": "#B294BB",
+            "brightRed": "#cc6666",
+            "brightWhite": "#c5c8c6",
+            "brightYellow": "#f0c674",
+            "cyan": "#5E8D87",
+            "green": "#8C9440",
+            "purple": "#85678F",
+            "red": "#cc6666",
+            "white": "#c5c8c6",
+            "yellow": "#f0c674"
+        }
+    ],
