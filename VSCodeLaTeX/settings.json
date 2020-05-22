@@ -129,24 +129,24 @@
         }
     ],
     "latex-workshop.view.pdf.viewer": "external",
-    "latex-workshop.view.pdf.external.viewer.command": "C:\\Users\\xwy45\\AppData\\Local\\SumatraPDF\\SumatraPDF.exe",
+    "latex-workshop.view.pdf.external.viewer.command": "C:\\Users\\username\\AppData\\Local\\SumatraPDF\\SumatraPDF.exe",
     "latex-workshop.view.pdf.external.viewer.args": [
         "-forward-search",
         "%TEX%",
         "%LINE%",
         "-reuse-instance",
         "-inverse-search",
-        "\"C:\\Users\\xwy45\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"C:\\Users\\xwy45\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\cli.js\" -gr \"%f\":\"%l\"",
+        "\"C:\\Users\\username\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"C:\\Users\\username\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\cli.js\" -gr \"%f\":\"%l\"",
         "%PDF%"
     ],
-    "latex-workshop.view.pdf.external.synctex.command": "C:\\Users\\xwy45\\AppData\\Local\\SumatraPDF\\SumatraPDF.exe",
+    "latex-workshop.view.pdf.external.synctex.command": "C:\\Users\\username\\AppData\\Local\\SumatraPDF\\SumatraPDF.exe",
     "latex-workshop.view.pdf.external.synctex.args": [
         "-forward-search",
         "%TEX%",
         "%LINE%",
         "-reuse-instance",
         "-inverse-search",
-        "\"C:\\Users\\xwy45\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"C:\\Users\\xwy45\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\cli.js\" -gr \"%f\":\"%l\"",
+        "\"C:\\Users\\username\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"C:\\Users\\username\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\cli.js\" -gr \"%f\":\"%l\"",
         "%PDF%"
     ]
 }
